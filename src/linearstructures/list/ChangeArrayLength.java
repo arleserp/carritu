@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package utilities;
+package linearstructures.list;
 
 import java.lang.reflect.Array;
 

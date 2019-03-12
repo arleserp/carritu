@@ -5,7 +5,6 @@
  */
 package linearstructures.list;
 
-import utilities.ChangeArrayLength;
 import java.lang.reflect.Array;
 
 /**
